@@ -1,5 +1,4 @@
-﻿Sexo;Edad;Estatura;Grupo
-;;;Sanguíneo
+﻿Sexo;Edad;Estatura;GrupoSanguíneo
 Mujer;25;1.72;B
 Hombre;30;1.73;B
 Hombre;38;1.78;A
